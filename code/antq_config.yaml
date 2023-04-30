@@ -1,0 +1,14 @@
+ANT_NUM: 56
+
+rho: 0.1
+
+alpha: 1
+
+beta: 4
+
+lr: 0.04
+
+r_0: 0.9
+
+lg: 0
+

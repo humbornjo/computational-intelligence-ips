@@ -1,0 +1,14 @@
+
+ANT_NUM: 100
+
+Q: 30
+
+rho: 0.1
+
+alpha: 2
+
+beta: 1
+
+phe_up: 0.9
+
+phe_low: 0.1
